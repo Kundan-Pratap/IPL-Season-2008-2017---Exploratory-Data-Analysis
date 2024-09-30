@@ -1,4 +1,4 @@
-# IPL Data Analysis Project
+# IPL Season(2008-2017)- Exploratory Data Analysis
 
 This project explores IPL (Indian Premier League) match and delivery data to gain insights into the tournament's history and identify key trends. 
 
